@@ -10,7 +10,7 @@ A modern and responsive landing page for **BestTea**, a premium tea brand. This 
 - Business consultation offer for cafés and restaurants
 - Smooth navigation and user-friendly interface
 
-## Technologies Used
+## Tools & Frameworks
 
 - HTML5
 - CSS3 (with Bootstrap 5)
